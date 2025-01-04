@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyasingh1008" alt="priyasingh1008" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](portfolio-git-main-priyas-projects-c76f8184.vercel.app)
-
 - 🌱 I’m currently learning **New Frameworks**
 
 - 👯 I’m looking to collaborate on **new Projects**
