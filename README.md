@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasingh1008&label=Profile%20views&color=0e75b6&style=flat" alt="priyasingh1008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyasingh1008" alt="priyasingh1008" /></a> </p>
 
 - 🌱 I’m currently learning **New Frameworks**
 
