@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **new Projects**
 
-- 👨‍💻 All of my projects are available at [portfolio-git-main-priyas-projects-c76f8184.vercel.app](portfolio-git-main-priyas-projects-c76f8184.vercel.app)
+- 👨‍💻 All of my projects are available at https://portfolio-git-main-priyas-projects-c76f8184.vercel.app/
 
 - 💬 Ask me about **Javascript, React, Nextjs, Typescript, tailwind CSS**
 
