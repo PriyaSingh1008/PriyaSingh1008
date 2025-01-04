@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priya Singh</h1>
+<h1 align="center">Hii There 👋, I'm Priya Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasingh1008&label=Profile%20views&color=0e75b6&style=flat" alt="priyasingh1008" /> </p>
